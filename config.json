@@ -1,0 +1,13 @@
+{
+    "blacklist": {
+        "memecoins": ["fakecoin1", "scamcoin2"],
+        "developers": ["dev123", "maliciousDev"]
+    },
+    "twitterCheck": {
+        "scoreThreshold": 450
+    },
+    "otherSettings": {
+        "apiSources": ["dexscreener", "rugcheck"],
+        "verifySupply": true
+    }
+}
